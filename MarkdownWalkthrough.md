@@ -42,7 +42,7 @@ What about images? To insert an image you do like this.:
 
 We'll use a random one.
 
-![Alt Text](https://picsum.photos/200/200) 
+![Name of Image](https://picsum.photos/200/200) 
 
 (You can of course also paste images from a folder in you repository. Simply copy and
 paste the url)
@@ -59,6 +59,17 @@ First header | Second header | Third header
 ------ | ------ | ------ |
 First thing | Second thing | Third thing
 Again | Again again | Again again again
+
+What if you want to align text to the centre or to the right? You'll need to use <div> tags around the text. 
+
+<div align="center">
+This is the text I want to centre
+ 
+But now everything's centred. 
+ 
+So we need to go back by aligning to the left again.
+
+<div align="left">
 
 Okay lastly, we can do syntax highlighting.
 
