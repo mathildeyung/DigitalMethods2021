@@ -49,8 +49,9 @@ paste the url)
 
 Next up is blockqoutes. This is easy.
 
-As Michael Scott said:
-> ...And I new exactly what to do. But in a much more real sense, I had no idea what to do.
+> You just do like this.
+>> That *is* pretty easy. 
+>>> Yes. That's what I said.
 
 You can also do tables. Let's do that. 
 
