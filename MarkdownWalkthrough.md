@@ -1,12 +1,23 @@
 Table of Contents 
 
-[Text](Link)
+[Text Formatting](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#text-formatting)
 
-[Text](Link)
+[Unordered List](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#unordered-list)
 
-[Text](Link)
+[Ordered List](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#ordered-list)
 
-[Text](Link)
+[Links](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#links)
+
+[Images](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#images)
+
+[Blockqoutes](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#blockqoutes)
+
+[Tables](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#tables)
+
+[Alignment](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#alignment)
+
+[Syntax Highlighting](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#syntax-highlighting)
+
 
 # Writing in Markdown (this is header 1)
 ## A walkthrough (This is header 2)
