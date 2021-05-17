@@ -1,22 +1,17 @@
 Table of Contents 
 
-[Text Formatting](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#text-formatting)
-
-[Unordered List](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#unordered-list)
-
-[Ordered List](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#ordered-list)
-
-[Links](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#links)
-
-[Images](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#images)
-
-[Blockqoutes](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#blockqoutes)
-
-[Tables](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#tables)
-
-[Alignment](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#alignment)
-
-[Syntax Highlighting](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#syntax-highlighting)
+* [Text Formatting](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#text-formatting)
+* [Lists](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#lists)
+  * [Unordered List](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#unordered-list)
+  * [Ordered List](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#ordered-list)
+* [Various Objects](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#various-objects)
+  * [Links](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#links)
+  * [Images](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#images)
+  * [Blockqoutes](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#blockqoutes)
+  * [Tables](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#tables)
+* [Formatting - making it pretty](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#formatting---making-it-pretty)
+  * [Alignment](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#alignment)
+  * [Syntax Highlighting](https://github.com/mathildeyung/DigitalMethods2021/blob/main/MarkdownWalkthrough.md#syntax-highlighting)
 
 
 # Writing in Markdown (this is header 1)
