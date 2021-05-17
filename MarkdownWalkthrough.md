@@ -24,7 +24,7 @@ Table of Contents
 ### We'll see how it goes... (This is header 3)
 ###### You can make headers in 6 different sizes. It corresponds to the number of '#'. This is the smallest. 
 
-### Text formatting
+## Text formatting
 Okay, so first of all we want to try to make things either italic, bold, or crossed out. 
 If we want to make something *italic* we use 1 asterisk. If we want to make something **bold** we use 2 asterisks. If we want to make something ~~crossed out~~
 we use two tilts (~). You can also do it like this _italics_ __bold__ AND you can also combine them __*combined*__.
@@ -32,6 +32,8 @@ Alright, so far so good. But how come we don't have proper spacing? We don't see
 two times...
 
 Like this. 
+
+## Lists
 
 Right. Next we'd like to make a list - we can make them both unordered and ordered.
 
@@ -54,6 +56,8 @@ You can also do like this
    1. Item 3b
 1. Item 4
    1. Item 4a
+
+## Various Objects
 
 ### Links
 Now we want to insert af link. This is how:
@@ -86,6 +90,7 @@ First header | Second header | Third header
 First thing | Second thing | Third thing
 Again | Again again | Again again again
 
+## Formatting - making it pretty
 
 ### Alignment
 What if you want to align text to the centre or to the right? You'll need to use <div> tags around the text. 
