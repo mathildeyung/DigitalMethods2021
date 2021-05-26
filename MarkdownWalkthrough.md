@@ -24,10 +24,8 @@
 
 ## Text formatting
 Okay, so first of all we want to try to make things either italic, bold, or crossed out. 
-If we want to make something *italic* we use 1 asterisk. If we want to make something **bold** we use 2 asterisks. If we want to make something ~~crossed out~~
-we use two tilts (~). You can also do it like this _italics_ __bold__ AND you can also combine them __*combined*__.
-Alright, so far so good. But how come we don't have proper spacing? We don't seem to get anywhere when hitting 'enter'. Well, thats because you need to press it
-two times...
+If we want to make something *italic* we use 1 asterisk. If we want to make something **bold** we use 2 asterisks. If we want to make something ~~crossed out~~ we use two tilts (~). You can also do it like this _italics_ __bold__ AND you can also combine them __*combined*__.
+Alright, so far so good. But how come we don't have proper spacing? We don't seem to get anywhere when hitting 'enter'. Well, thats because you need to press it two times...
 
 Like this. 
 
@@ -58,7 +56,7 @@ You can also do like this
 ## Various Objects
 
 ### Links
-Now we want to insert af link. This is how:
+Now we want to insert a link. This is how:
 
 [GitHub MarkDown documentation](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 *Good to know. Any url like (https://github.com/) will automatically be converted to a clickable link.*
@@ -70,8 +68,7 @@ We'll use a random one.
 
 ![Name of Image](https://picsum.photos/200/200) 
 
-(You can of course also paste images from a folder in you repository. Simply copy and
-paste the url)
+Naturally, it is also possible to use images from other sites or saved on your computer. Simply paste the url or attach the image (or other files) at the bottom of the page. This will paste the image where you've put the cursor.
 
 ### Blockqoutes
 Next up is blockqoutes. This is easy.
@@ -87,9 +84,6 @@ First header | Second header | Third header
 ------ | ------ | ------ |
 First thing | Second thing | Third thing
 Again | Again again | Again again again
-
-## Citations
-Okay. So naturally, you'll want to be able to make citations. 
 
 ## Formatting - making it pretty
 
@@ -131,3 +125,4 @@ function fancyAlert(arg) {
 ```
 
 Perfect. This is it 🥳 (probably not relevant, but GitHub MarkDown also support emojis. Here you go: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
