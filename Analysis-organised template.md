@@ -4,25 +4,25 @@
 
 ## Table of Contents
 
-* [1. Introduction]()
-* [2. Motication the question(s)]()
-* [3. Overall method-plan]()
-* [4. Key actors and their interactions (behaviour)]()
-  * [Account of practice]()
-  * [Main analyses]()
-  * [Discussions]()
+* [1. Introduction](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#1-introduction)
+* [2. Motication the question(s)](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#2-motivating-the-questions)
+* [3. Overall method-plan](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#3-overall-method-plan)
+* [4. Key actors and their interactions (behaviour)](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#4-key-actors-and-their-interaction-behaviour)
+  * [Account of method practice](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#account-of-method-practice)
+  * [Main analyses](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#main-analyses)
+  * [Discussions](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#discussions)
 * [5. Key social relations (networks)]()
-  * [Account of practice]()
-  * [Main analyses]()
-  * [Discussions](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Methods-organised%20template.md#discussions-1)
-* [6. Key semantic/discursive patterns (ideas)](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Methods-organised%20template.md#6-content-analysis)
-  * [Account of practice](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Methods-organised%20template.md#account-of-practice-2)
-  * [Main analyses](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Methods-organised%20template.md#main-analyses-2)
-  * [Discussions](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Methods-organised%20template.md#discussions-2)
-* [7. Advanced Social Data Science II](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Methods-organised%20template.md#7-advanved-social-data-science-ii)
-* [8. Quali-quantitative integrations across methods](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Methods-organised%20template.md#8-quali-quantitative-integrations-across-methods)
-* [9. Discussion/Conclusion](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Methods-organised%20template.md#9-discussionconclusion)
-* [10. Appendix](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Methods-organised%20template.md#10-appendix)
+  * [Account of method practice](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#account-of-method-practice-1)
+  * [Main analyses](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#main-analyses-1)
+  * [Discussions](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#discussions-1)
+* [6. Key semantic/discursive patterns (ideas)](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#6-key-semanticdiscursive-patterns-ideas)
+  * [Account of method practice]()
+  * [Main analyses](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#main-analyses-2)
+  * [Discussions](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#discussions-2)
+* [7. Advanced Social Data Science II](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#7-advanced-social-data-science-ii)
+* [8. Quali-quantitative integrations across methods](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#8-quali-quantitative-integrations-across-methods)
+* [9. Discussion/Conclusion](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#9-discussionconclusion)
+* [10. Appendix](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#10-appendix)
 
 ## 1. Introduction
 Introduction to your topic and question(s) (1/2-1 page)
@@ -42,7 +42,7 @@ In this section of your assignment you present your findings and reflections on 
 * ### Discussions 
   Discussions of shortcomings, points of improvement, and next steps vis-à-vis quality criteria in the syllabus
   
-## 5. Key Social Relations (networks)
+## 5. Key social relations (networks)
 In this section of your assignment you present your findings and reflections on key social relations. Note that this part is on both the manual 
 and the automated network (3-3.5 pages). It should include:
 * ### Account of method practice
@@ -54,7 +54,7 @@ and the automated network (3-3.5 pages). It should include:
   
 ## 6. Key semantic/discursive patterns (ideas)
 In this section of your assigntment you present your findings and reflections on key semantic/discursive patterns (3-3.5 pages). It should include: 
-* ### Account of practice
+* ### Account of method practice
   What you did using methods in combination in order to ground this part of your analysis, and justification of key choices vis-à-vis the syllabus
 * ### Main analyses
   Your main analyses and key findings, i.e. key patterns of semantics/discourses (ideas) in the field 
