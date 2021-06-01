@@ -5,7 +5,7 @@
 ## Table of Contents
 
 * [1. Introduction](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#1-introduction)
-* [2. Motication the question(s)](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#2-motivating-the-questions)
+* [2. Motivating the question(s)](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#2-motivating-the-questions)
 * [3. Overall method-plan](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#3-overall-method-plan)
 * [4. Key actors and their interactions (behaviour)](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#4-key-actors-and-their-interaction-behaviour)
   * [Account of method practice](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Analysis-organised%20template.md#account-of-method-practice)
