@@ -59,7 +59,7 @@ This is the content analysis part of your assigntment (3-3.5 pages). It should i
 * ### Discussions 
   Discussions of shortcomings, points of improvement, and next steps vis-à-vis quality criteria in the syllabus
 
-## 7. Advanved Social Data Science II
+## 7. Advanced Social Data Science II
 This the ASDSII part of your assignment. It should be 5-6.25 pages depending on group size. 
 
 ## 8. Quali-quantitative integrations across methods
