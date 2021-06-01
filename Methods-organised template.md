@@ -17,7 +17,7 @@
   * [Account of practice](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Methods-organised%20template.md#account-of-practice-2)
   * [Main analyses](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Methods-organised%20template.md#main-analyses-2)
   * [Discussions](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Methods-organised%20template.md#discussions-2)
-* [7. Advanced Social Data Science II](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Methods-organised%20template.md#7-advanved-social-data-science-ii)
+* [7. Advanced Social Data Science II](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Methods-organised%20template.md#7-advanced-social-data-science-ii)
 * [8. Quali-quantitative integrations across methods](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Methods-organised%20template.md#8-quali-quantitative-integrations-across-methods)
 * [9. Discussion/Conclusion](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Methods-organised%20template.md#9-discussionconclusion)
 * [10. Appendix](https://github.com/mathildeyung/DigitalMethods2021/blob/main/Methods-organised%20template.md#10-appendix)
